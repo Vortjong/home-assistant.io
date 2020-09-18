@@ -115,6 +115,7 @@ Typical values for switches, the event codes are 4 numbers where the first and l
 | XXX1        | Button hold          |
 | XXX2        | Button short release |
 | XXX3        | Button long release  |
+| XXX4        | Button double press  |
 
 Where for example on a Philips Hue Dimmer, 2001 would be holding the dim up button.
 
